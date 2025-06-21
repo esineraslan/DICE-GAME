@@ -44,7 +44,6 @@ namespace DICE_GAME
                 sayac = 0;
                 button1.Enabled = true;
             }
-    
             
         }
     }
