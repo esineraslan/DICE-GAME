@@ -38,7 +38,7 @@ namespace DICE_GAME
 
             sayac++;
 
-            if(sayac == 30)
+            if(sayac == 30) 
             {
                 timer1.Stop();
                 sayac = 0;
