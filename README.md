@@ -1,2 +1,3 @@
 # DICE GAME WITH C#
-![image](https://github.com/user-attachments/assets/9eb7cad3-3fa8-4888-95c8-ac217aaf9c38)
+![image](https://github.com/user-attachments/assets/f25ac1c0-c965-4bc5-8062-a4e70c9e2263)
+
